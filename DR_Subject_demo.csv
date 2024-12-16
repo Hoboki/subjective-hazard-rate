@@ -1,0 +1,2 @@
+id,sona_id,condition,age,gender,handedness,os_name,browser_name,started_at,started_experiment_at,finished_at,created_at,updated_at
+0,xxxxx,modulate_hazard_rate,20,Man,Right,Windows 10,edge-chromium,2025-01-01 00:00:00,2025-01-01 00:05:00,2025-01-01 00:45:00,2025-01-01 00:01:00,2025-01-01 00:46:00
